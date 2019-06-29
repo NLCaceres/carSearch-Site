@@ -1,4 +1,4 @@
-# Car Lords - The Site to Help You Get All the Info You Need for Your Next Car!
+# Car Lords - The Site to Help You Get Your Next Car Info Needs!
 
 This was my final project in USC's ITP 301 Intro to Web Dev Class. Though it's not exactly what it was when I submitted it
 (due to issues with the 3rd party libraries I was using at the time), I tried to keep things as close as I could. Its purpose
