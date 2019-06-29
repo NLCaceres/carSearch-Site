@@ -1,0 +1,141 @@
+/* #top-level-container {
+  min-width: 100%;
+  min-height: 100%;
+  height: 100%;
+  width: 100%;
+} */
+/* .list-items {
+  display: inline-block;
+  margin-left: 100px;
+} */
+/* #search-box {
+  width: 100%;
+  height: 50%;
+} */
+/* #heading {
+  width: 100%;
+  height: 20%;
+  overflow: hidden;
+} */
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  overflow: hidden;
+}
+#heading {
+  height: 7%;
+}
+#mainBody {
+  height: 86%;
+}
+#carouselBody {
+  z-index: -3;
+}
+#dropdownContainer {
+  height: 100%;
+}
+.dropdown {
+  z-index: 3;
+}
+#footer {
+  height: 7%;
+}
+#footer > li > a {
+  color: rgba(255, 255, 255, 0.637);
+}
+#footer > li > a:hover {
+  color: rgba(255, 255, 255, 1);
+}
+/* .backgroundImgs {
+  display: block;
+  min-width: 100%;
+  height: auto;
+} */
+
+/* #dropdown-container {
+  height: 30%;
+  margin-top: 25px;
+} 
+.other-body {
+  width: 1300px;
+  height: 560px;
+  display: none;
+}
+.carChoices {
+  width: 150px;
+}
+.white-popup {
+  position: relative;
+  background: #fff;
+  padding: 10px;
+  width: auto;
+  max-width: 500px;
+  margin: 10px auto;
+}
+#left-side-container {
+  width: 250px;
+  height: 575px;
+  overflow: scroll;
+}
+#right-side-container {
+  width: 1000px;
+  height: 575px;
+  overflow: scroll;
+}
+.car-container {
+  width: 1000px;
+  margin-top: 10px;
+}
+.car-search-inner-contents {
+  display: inline-block;
+  font-size: 14px;
+  color: white;
+}
+.car-search-title {
+  font-size: 20px;
+  color: white;
+}
+.search-result-container {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.search-inner-contents {
+  font-size: 14px;
+}
+.search-title {
+  font-size: 20px;
+}
+#find-car-background {
+  width: 100%;
+  height: 560px;
+}
+#searchResultsBody {
+  width: 100%;
+  overflow: hidden;
+  height: 60%;
+}
+#search-result-box {
+  overflow: scroll;
+  margin-top: 10px;
+  margin-left: 30px;
+  width: 1220px;
+  height: 450px;
+}
+#showing-results {
+  margin-top: 10px;
+  margin-left: 30px;
+  padding: 5px 10px 5px 10px;
+  display: inline-block;
+}
+#helpLabel {
+  margin-left: 155px;
+  margin-bottom: 10px;
+  width: 150px;
+  padding: 5px 5px 5px 5px;
+}
+.sliders {
+  margin: 5px 5px 30px 25px;
+  width: 200px;
+} */

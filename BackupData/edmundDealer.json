@@ -1,0 +1,2512 @@
+{
+  "dealers": [
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1010",
+      "name": "Toyota of Glendale",
+      "niceName": "ToyotaofGlendale_1010",
+      "distance": 4.398095522138488,
+      "operations": {
+        "Wednesday": "9:00 AM-9:00 PM",
+        "Thursday": "9:00 AM-9:00 PM",
+        "Tuesday": "9:00 AM-9:00 PM",
+        "Saturday": "9:00 AM-9:00 PM",
+        "Friday": "9:00 AM-9:00 PM",
+        "Monday": "9:00 AM-9:00 PM",
+        "Sunday": "10:00 AM-8:00 PM"
+      },
+      "address": {
+        "street": "1260 S Brand Blvd",
+        "apartment": "",
+        "city": "Glendale",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.130555,
+        "longitude": -118.254846,
+        "zipcode": "91204"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Oremor Automotive Group",
+      "contactInfo": {
+        "phone": "(888) 839-6379",
+        "website": "http://www.toyotaofglendale.com/",
+        "gpContactFirstName": "Janet",
+        "gpContactLastName": "Colbert",
+        "gpContactEmail": "jcolbert@toyotaofglendale.com",
+        "gpPhone": "(888) 839-6379"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 1.0,
+          "count": 14,
+          "recommendedCount": 0,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "fiveStarAwardYears": "2015;2016;2017",
+      "exclusions": [],
+      "dealerId": "20209",
+      "name": "Toyota of Hollywood",
+      "niceName": "ToyotaofHollywood_20209",
+      "distance": 7.998754897293874,
+      "operations": {
+        "Wednesday": "09:00 AM-09:00 PM",
+        "Thursday": "09:00 AM-09:00 PM",
+        "Tuesday": "09:00 AM-09:00 PM",
+        "Saturday": "09:00 AM-08:00 PM",
+        "Friday": "09:00 AM-09:00 PM",
+        "Monday": "09:00 AM-09:00 PM",
+        "Sunday": "10:00 AM-07:00 PM"
+      },
+      "address": {
+        "street": "6000 Hollywood Blvd",
+        "apartment": "",
+        "city": "Los Angeles",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.101657,
+        "longitude": -118.320164,
+        "zipcode": "90028"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Sullivan Automotive Group",
+      "contactInfo": {
+        "phone": "(888) 903-0215",
+        "website": "http://www.scionhollywood.com/",
+        "gpContactFirstName": "Aaron",
+        "gpContactLastName": "Mushin",
+        "gpContactFirstName2": "Alfredo",
+        "gpContactLastName2": "Alfredo",
+        "gpContactEmail": "aaronmushin@lacarguy.com",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Please call us at (888) 903-0215 for exclusive offers|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(888) 903-0215"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 5.0,
+          "count": 48,
+          "recommendedCount": 19,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 4.968,
+          "count": 53,
+          "recommendedCount": 31,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1175",
+      "name": "Wondries Toyota",
+      "niceName": "WondriesToyota_1175",
+      "distance": 8.631542152104682,
+      "operations": {
+        "Wednesday": "08:30 AM-09:00 PM",
+        "Thursday": "08:30 AM-09:00 PM",
+        "Tuesday": "08:30 AM-09:00 PM",
+        "Saturday": "08:30 AM-09:00 PM",
+        "Friday": "08:30 AM-09:00 PM",
+        "Monday": "08:30 AM-09:00 PM",
+        "Sunday": "09:00 AM-09:00 PM"
+      },
+      "address": {
+        "street": "1543 W Main St",
+        "apartment": "",
+        "city": "Alhambra",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.09153,
+        "longitude": -118.140545,
+        "zipcode": "91801"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Wondries Auto Group",
+      "contactInfo": {
+        "phone": "(866) 745-7815",
+        "website": "http://www.wondriestoyota.com/inventory/new-vehicles/",
+        "gpContactFirstName": "Internet Sales",
+        "gpContactLastName": "Department",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(866) 745-7815"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 1.0,
+          "count": 12,
+          "recommendedCount": 0,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 1,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "992",
+      "name": "Toyota of Pasadena",
+      "niceName": "ToyotaofPasadena_992",
+      "distance": 9.35564053396786,
+      "operations": {
+        "Wednesday": "09:00 AM-09:00 PM",
+        "Thursday": "09:00 AM-09:00 PM",
+        "Tuesday": "09:00 AM-09:00 PM",
+        "Saturday": "09:00 AM-09:00 PM",
+        "Friday": "09:00 AM-09:00 PM",
+        "Monday": "09:00 AM-09:00 PM",
+        "Sunday": "10:00 AM-08:00 PM"
+      },
+      "address": {
+        "street": "3600 E Foothill Blvd",
+        "apartment": "",
+        "city": "Pasadena",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.150175,
+        "longitude": -118.075561,
+        "zipcode": "91107"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "contactInfo": {
+        "phone": "(888) 685-7978",
+        "website": "http://www.toyotapasadena.com/",
+        "gpContactFirstName": "Internet",
+        "gpContactLastName": "Department",
+        "gpContactEmail": "dzandel@toyotapasadena.com",
+        "gpCommitment": "Free $25 Reward Card with Test Drive. Valid only with Internet Department|Personal Service: A VIP coordinator will guide you through the process and prepare you for your dealer visit|Upfront Pricing: Upfront Guaranteed Pricing",
+        "gpPhone": "(888) 685-7978"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 5.0,
+          "count": 14,
+          "recommendedCount": 1,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 2,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "fiveStarAwardYears": "2017",
+      "exclusions": [],
+      "dealerId": "828",
+      "name": "Toyota of Downtown LA",
+      "niceName": "ToyotaofDowntownLA",
+      "distance": 10.850136584971304,
+      "operations": {
+        "Wednesday": "9:00 AM-10:00 PM",
+        "Thursday": "9:00 AM-10:00 PM",
+        "Tuesday": "9:00 AM-10:00 PM",
+        "Saturday": "9:00 AM-10:00 PM",
+        "Friday": "9:00 AM-10:00 PM",
+        "Monday": "9:00 AM-10:00 PM",
+        "Sunday": "9:00 AM-10:00 PM"
+      },
+      "address": {
+        "street": "1600 S Figueroa St",
+        "apartment": "",
+        "city": "Los Angeles",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.037455,
+        "longitude": -118.270073,
+        "zipcode": "90015"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Downtown LA Motors",
+      "contactInfo": {
+        "phone": "(877) 694-4745",
+        "website": "http://www.toyotaofdowntownla.com/index",
+        "gpContactFirstName": "Price Promise",
+        "gpContactLastName": "Coordinator",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(877) 694-4745"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 4.914,
+          "count": 62,
+          "recommendedCount": 58,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 4.785,
+          "count": 99,
+          "recommendedCount": 86,
+          "notRecommendedCount": 7
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1077",
+      "name": "Keyes Toyota",
+      "niceName": "KeyesToyota_1077",
+      "distance": 12.463800256052796,
+      "operations": {
+        "Wednesday": "8:30 AM-10:00 PM",
+        "Thursday": "8:30 AM-10:00 PM",
+        "Tuesday": "8:30 AM-10:00 PM",
+        "Saturday": "8:30 AM-10:00 PM",
+        "Friday": "8:30 AM-10:00 PM",
+        "Monday": "8:30 AM-10:00 PM",
+        "Sunday": "9:00 AM-10:00 PM"
+      },
+      "address": {
+        "street": "5855 Van Nuys Blvd",
+        "apartment": "",
+        "city": "Van Nuys",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.176803,
+        "longitude": -118.448889,
+        "zipcode": "91401"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Keyes Automotive Group",
+      "contactInfo": {
+        "phone": "(888) 580-9945",
+        "website": "http://www.keyestoyota.com/",
+        "gpContactFirstName": "Internet",
+        "gpContactLastName": "Sales",
+        "gpContactEmail": "vmarks@keyestoyota.com",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(888) 580-9945"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 3.0,
+          "count": 22,
+          "recommendedCount": 2,
+          "notRecommendedCount": 2
+        },
+        "service": {
+          "overallRating": 5.0,
+          "count": 5,
+          "recommendedCount": 1,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "837965",
+      "name": "Longo Scion",
+      "niceName": "LongoScion",
+      "distance": 14.414919296335212,
+      "operations": {
+        "Wednesday": "8:00 AM-9:00 PM",
+        "Tuesday": "8:00 AM-9:00 PM",
+        "Thursday": "8:00 AM-9:00 PM",
+        "Saturday": "8:00 AM-9:00 PM",
+        "Friday": "8:00 AM-9:00 PM",
+        "Monday": "8:00 AM-9:00 PM",
+        "Sunday": "8:30 AM-9:00 PM"
+      },
+      "address": {
+        "street": "3534 Peck Rd",
+        "apartment": "",
+        "city": "El Monte",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.071792,
+        "longitude": -118.024854,
+        "zipcode": "91731"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "Penske",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 1,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "825458",
+      "name": "Hamer Toyota",
+      "niceName": "HamerToyota_825458",
+      "distance": 14.546803480046936,
+      "operations": {
+        "Wednesday": "08:00 AM-09:00 PM",
+        "Tuesday": "08:00 AM-09:00 PM",
+        "Thursday": "08:00 AM-09:00 PM",
+        "Saturday": "08:00 AM-09:00 PM",
+        "Friday": "08:00 AM-09:00 PM",
+        "Monday": "08:00 AM-09:00 PM",
+        "Sunday": "09:00 AM-09:00 PM"
+      },
+      "address": {
+        "street": "11041 Sepulveda Boulevard",
+        "apartment": "",
+        "city": "Mission Hills",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.270827,
+        "longitude": -118.467263,
+        "zipcode": "91345"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "Ken Garff Automotive Group",
+      "reviews": {
+        "sales": {
+          "overallRating": 3.0,
+          "count": 24,
+          "recommendedCount": 1,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 2,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "837739",
+      "name": "Culver City Toyota",
+      "niceName": "CulverCityToyota",
+      "distance": 14.697510651460552,
+      "operations": {
+        "Wednesday": "8:30 AM-9:00 PM",
+        "Tuesday": "8:30 AM-9:00 PM",
+        "Thursday": "8:30 AM-9:00 PM",
+        "Saturday": "8:30 AM-9:00 PM",
+        "Friday": "8:30 AM-9:00 PM",
+        "Monday": "8:30 AM-9:00 PM",
+        "Sunday": "9:00 AM-9:00 PM"
+      },
+      "address": {
+        "street": "9077 Washington Blvd",
+        "apartment": "",
+        "city": "Culver City",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.02509,
+        "longitude": -118.391989,
+        "zipcode": "90232"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "Ken Garff Automotive Group",
+      "reviews": {
+        "sales": {
+          "overallRating": 4.0,
+          "count": 10,
+          "recommendedCount": 2,
+          "notRecommendedCount": 2
+        },
+        "service": {
+          "overallRating": 1.0,
+          "count": 1,
+          "recommendedCount": 0,
+          "notRecommendedCount": 1
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "876",
+      "name": "Marina Del Rey Toyota",
+      "niceName": "MarinaDelReyToyota_876",
+      "distance": 18.745205718762975,
+      "operations": {
+        "Wednesday": "8:00 AM-10:00 PM",
+        "Tuesday": "8:00 AM-10:00 PM",
+        "Thursday": "8:00 AM-10:00 PM",
+        "Saturday": "8:00 AM-10:00 PM",
+        "Friday": "8:00 AM-10:00 PM",
+        "Monday": "8:00 AM-10:00 PM",
+        "Sunday": "10:00 AM-10:00 PM"
+      },
+      "address": {
+        "street": "4636 Lincoln Blvd",
+        "apartment": "",
+        "city": "Marina Del Rey",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 33.982614,
+        "longitude": -118.440978,
+        "zipcode": "90292"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "Noarus Auto Group",
+      "reviews": {
+        "sales": {
+          "overallRating": 5.0,
+          "count": 11,
+          "recommendedCount": 2,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 5.0,
+          "count": 4,
+          "recommendedCount": 1,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "861",
+      "name": "Penske Toyota of Downey",
+      "niceName": "PenskeToyotaofDowney_861",
+      "distance": 18.909124519689858,
+      "operations": {
+        "Wednesday": "07:00 AM-09:00 PM",
+        "Thursday": "07:00 AM-09:00 PM",
+        "Tuesday": "07:00 AM-09:00 PM",
+        "Saturday": "07:00 AM-09:00 PM",
+        "Friday": "07:00 AM-09:00 PM",
+        "Monday": "07:00 AM-09:00 PM",
+        "Sunday": "08:30 AM-09:00 PM"
+      },
+      "address": {
+        "street": "9136 Firestone Blvd",
+        "apartment": "",
+        "city": "Downey",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 33.933505,
+        "longitude": -118.120334,
+        "zipcode": "90241"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Penske Junior",
+      "contactInfo": {
+        "phone": "(844) 640-6984",
+        "website": "http://www.pensketoyotadowney.com/used-cars-downey-ca",
+        "gpContactFirstName": "Josh",
+        "gpContactLastName": "Bombard",
+        "gpContactEmail": "jbombard@socalpenske.com",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(844) 640-6984"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "21206",
+      "name": "Scion Santa Monica",
+      "niceName": "ScionSantaMonica_1",
+      "distance": 18.978967460843002,
+      "operations": {
+        "Wednesday": "9:00 AM-8:00 PM",
+        "Tuesday": "9:00 AM-8:00 PM",
+        "Thursday": "9:00 AM-8:00 PM",
+        "Saturday": "9:00 AM-8:00 PM",
+        "Friday": "9:00 AM-8:00 PM",
+        "Monday": "9:00 AM-8:00 PM",
+        "Sunday": "10:00 AM-7:00 PM"
+      },
+      "address": {
+        "street": "832 Santa Monica Blvd",
+        "apartment": "",
+        "city": "Santa Monica",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.019937,
+        "longitude": -118.490878,
+        "zipcode": "90401"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "Sullivan Automotive Group",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 2,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "850474",
+      "name": "Penske Toyota Of West Covina",
+      "niceName": "PenskeToyotaOfWestCovina_850474",
+      "distance": 20.357004625979553,
+      "operations": {
+        "Wednesday": "9:00 AM-9:00 PM",
+        "Tuesday": "9:00 AM-9:00 PM",
+        "Thursday": "9:00 AM-9:00 PM",
+        "Saturday": "9:00 AM-9:00 PM",
+        "Friday": "9:00 AM-9:00 PM",
+        "Monday": "9:00 AM-9:00 PM",
+        "Sunday": "9:00 AM-9:00 PM"
+      },
+      "address": {
+        "street": "1800 E Garvey Ave S",
+        "apartment": "",
+        "city": "West Covina",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.07002,
+        "longitude": -117.907092,
+        "zipcode": "91791"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "Penske Junior",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 1,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "936",
+      "name": "Norwalk Toyota",
+      "niceName": "NorwalkToyota_936",
+      "distance": 20.593674240331808,
+      "operations": {
+        "Wednesday": "8:00 AM-9:00 PM",
+        "Thursday": "8:00 AM-9:00 PM",
+        "Tuesday": "8:00 AM-9:00 PM",
+        "Saturday": "8:00 AM-9:00 PM",
+        "Friday": "8:00 AM-9:00 PM",
+        "Monday": "8:00 AM-9:00 PM",
+        "Sunday": "10:00 AM-7:00 PM"
+      },
+      "address": {
+        "street": "11404 Imperial Hwy",
+        "apartment": "",
+        "city": "Norwalk",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 33.917037,
+        "longitude": -118.09043,
+        "zipcode": "90650"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Professional Success",
+      "contactInfo": {
+        "phone": "(888) 903-2953",
+        "website": "http://www.norwalktoyota.com/",
+        "gpContactFirstName": "Dan",
+        "gpContactLastName": "Turner",
+        "gpContactEmail": "dan@norwalktoyota.com",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Text us at (562) 912-1766 for exclusive offers.|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(888) 903-2953"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 2.333,
+          "count": 7,
+          "recommendedCount": 1,
+          "notRecommendedCount": 2
+        },
+        "service": {
+          "overallRating": 3.25,
+          "count": 4,
+          "recommendedCount": 2,
+          "notRecommendedCount": 2
+        }
+      },
+      "states": ["NEW", "USED"],
+      "group": {
+        "id": "1798994",
+        "name": "Professional Success"
+      },
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "919",
+      "name": "Toyota of Whittier",
+      "niceName": "ToyotaofWhittier_919",
+      "distance": 20.672239236943447,
+      "operations": {
+        "Wednesday": "9:00 AM-9:00 PM",
+        "Tuesday": "9:00 AM-9:00 PM",
+        "Thursday": "9:00 AM-9:00 PM",
+        "Saturday": "9:00 AM-9:00 PM",
+        "Friday": "9:00 AM-9:00 PM",
+        "Monday": "9:00 AM-9:00 PM",
+        "Sunday": "10:00 AM-8:00 PM"
+      },
+      "address": {
+        "street": "14577 Whittier Blvd",
+        "apartment": "",
+        "city": "Whittier",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 33.952557,
+        "longitude": -118.013684,
+        "zipcode": "90605"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 1.0,
+          "count": 1,
+          "recommendedCount": 0,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "fiveStarAwardYears": "2015;2016;2017",
+      "exclusions": [],
+      "dealerId": "1126",
+      "name": "Puente Hills Toyota",
+      "niceName": "PuenteHillsToyota_1126",
+      "distance": 21.476373662465992,
+      "operations": {
+        "Wednesday": "7:00 AM-9:00 PM",
+        "Tuesday": "7:00 AM-9:00 PM",
+        "Thursday": "7:00 AM-9:00 PM",
+        "Saturday": "7:00 AM-9:00 PM",
+        "Friday": "7:00 AM-9:00 PM",
+        "Monday": "7:00 AM-9:00 PM",
+        "Sunday": "9:30 AM-9:00 PM"
+      },
+      "address": {
+        "street": "17070 Gale Ave",
+        "apartment": "",
+        "city": "City of Industry",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.000304,
+        "longitude": -117.935308,
+        "zipcode": "91745"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Hitchcock Automotive",
+      "contactInfo": {
+        "phone": "(888) 904-1014",
+        "website": "http://www.puentehillstoyota.com/ou/city-of-industry-toyota/index.do"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 4.75,
+          "count": 52,
+          "recommendedCount": 15,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 1,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "870",
+      "name": "Manhattan Beach Toyota",
+      "niceName": "ManhattanBeachToyota_870",
+      "distance": 22.877846834653965,
+      "operations": {
+        "Wednesday": "08:30 AM-09:00 PM",
+        "Thursday": "08:30 AM-09:00 PM",
+        "Tuesday": "08:30 AM-09:00 PM",
+        "Saturday": "08:30 AM-09:00 PM",
+        "Friday": "08:30 AM-09:00 PM",
+        "Monday": "08:30 AM-09:00 PM",
+        "Sunday": "09:00 AM-09:00 PM"
+      },
+      "address": {
+        "street": "1500 N Sepulveda Blvd",
+        "apartment": "",
+        "city": "Manhattan Beach",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 33.889431,
+        "longitude": -118.39595,
+        "zipcode": "90266"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "contactInfo": {
+        "phone": "(877) 670-1965",
+        "website": "http://www.manhattanbeachtoyota.com/",
+        "gpContactFirstName": "Ernie",
+        "gpContactLastName": "Farias",
+        "gpContactEmail": "efarias@manhattnbeachtoyota.com",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(877) 670-1965"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 4.667,
+          "count": 23,
+          "recommendedCount": 6,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 5.0,
+          "count": 3,
+          "recommendedCount": 1,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "296577",
+      "name": "South Bay Scion",
+      "niceName": "SouthBayScion",
+      "distance": 23.04070427484465,
+      "operations": {
+        "Wednesday": "08:30 AM-10:00 PM",
+        "Tuesday": "08:30 AM-10:00 PM",
+        "Thursday": "08:30 AM-10:00 PM",
+        "Saturday": "08:30 AM-10:00 PM",
+        "Friday": "08:30 AM-10:00 PM",
+        "Monday": "08:30 AM-10:00 PM",
+        "Sunday": "10:00 AM-09:00 PM"
+      },
+      "address": {
+        "street": "18416 S Western Ave",
+        "apartment": "",
+        "city": "Gardena",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 33.864002,
+        "longitude": -118.309125,
+        "zipcode": "90248"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1119",
+      "name": "Toyota of Glendora",
+      "niceName": "ToyotaofGlendora_1119",
+      "distance": 23.707212848185982,
+      "operations": {
+        "Wednesday": "9:00 AM-9:00 PM",
+        "Tuesday": "9:00 AM-9:00 PM",
+        "Thursday": "9:00 AM-9:00 PM",
+        "Saturday": "9:00 AM-9:00 PM",
+        "Friday": "9:00 AM-9:00 PM",
+        "Monday": "9:00 AM-9:00 PM",
+        "Sunday": "9:00 AM-8:00 PM"
+      },
+      "address": {
+        "street": "1949 Auto Centre Dr",
+        "apartment": "",
+        "city": "Glendora",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.117588,
+        "longitude": -117.826549,
+        "zipcode": "91740"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 3,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1036",
+      "name": "Frontier Toyota",
+      "niceName": "FrontierToyota_1036",
+      "distance": 23.973482910479124,
+      "operations": {
+        "Wednesday": "8:00 AM-10:00 PM",
+        "Thursday": "8:00 AM-10:00 PM",
+        "Tuesday": "8:00 AM-10:00 PM",
+        "Saturday": "9:00 AM-10:00 PM",
+        "Friday": "8:00 AM-10:00 PM",
+        "Monday": "8:00 AM-10:00 PM",
+        "Sunday": "9:00 AM-10:00 PM"
+      },
+      "address": {
+        "street": "23621 Creekside Rd",
+        "apartment": "",
+        "city": "Valencia",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.417654,
+        "longitude": -118.549777,
+        "zipcode": "91355"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "contactInfo": {
+        "phone": "(888) 420-5137",
+        "website": "http://www.frontiertoyota.com/",
+        "gpContactFirstName": "Drew",
+        "gpContactLastName": "Katigbak",
+        "gpContactEmail": "dkatigbak@frontiertoyota.com",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Receive 2 years or 25,000 complimentary maintenance and roadside assistance on any new Toyota|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(888) 420-5137"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 4.0,
+          "count": 22,
+          "recommendedCount": 3,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 1.0,
+          "count": 2,
+          "recommendedCount": 0,
+          "notRecommendedCount": 1
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "953",
+      "name": "Carson Toyota",
+      "niceName": "CarsonToyota_953",
+      "distance": 25.371211125623038,
+      "operations": {
+        "Wednesday": "08:00 AM-10:00 PM",
+        "Thursday": "08:00 AM-10:00 PM",
+        "Tuesday": "08:00 AM-10:00 PM",
+        "Saturday": "08:00 AM-10:00 PM",
+        "Friday": "08:00 AM-10:00 PM",
+        "Monday": "08:00 AM-10:00 PM",
+        "Sunday": "09:00 AM-09:00 PM"
+      },
+      "address": {
+        "street": "1333 E 223rd St",
+        "apartment": "",
+        "city": "Carson",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 33.824321,
+        "longitude": -118.249707,
+        "zipcode": "90745"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "contactInfo": {
+        "phone": "(888) 928-0384",
+        "website": "http://www.carsontoyota.com/"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 5.0,
+          "count": 79,
+          "recommendedCount": 5,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 2,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "965",
+      "name": "Cabe Toyota Long Beach",
+      "niceName": "CabeToyotaLongBeach_965",
+      "distance": 26.464862986024738,
+      "operations": {
+        "Wednesday": "08:00 AM-08:00 PM",
+        "Thursday": "08:00 AM-08:00 PM",
+        "Tuesday": "08:00 AM-08:00 PM",
+        "Saturday": "08:00 AM-08:00 PM",
+        "Friday": "08:00 AM-08:00 PM",
+        "Monday": "08:00 AM-08:00 PM",
+        "Sunday": "08:00 AM-08:00 PM"
+      },
+      "address": {
+        "street": "2895 Long Beach Blvd",
+        "apartment": "",
+        "city": "Long Beach",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 33.809772,
+        "longitude": -118.189479,
+        "zipcode": "90806"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 3.667,
+          "count": 138,
+          "recommendedCount": 2,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 1.0,
+          "count": 5,
+          "recommendedCount": 0,
+          "notRecommendedCount": 2
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "913",
+      "name": "DCH Toyota of Torrance",
+      "niceName": "DCHToyotaofTorrance_913",
+      "distance": 28.00265634578459,
+      "operations": {
+        "Wednesday": "9:00 AM-9:00 PM",
+        "Tuesday": "9:00 AM-9:00 PM",
+        "Thursday": "9:00 AM-9:00 PM",
+        "Saturday": "9:00 AM-9:00 PM",
+        "Friday": "9:00 AM-9:00 PM",
+        "Monday": "9:00 AM-9:00 PM",
+        "Sunday": "10:00 AM-8:00 PM"
+      },
+      "address": {
+        "street": "2909 Pacific Coast Hwy",
+        "apartment": "",
+        "city": "Torrance",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 33.795642,
+        "longitude": -118.337915,
+        "zipcode": "90505"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "DCH Auto Group",
+      "reviews": {
+        "sales": {
+          "overallRating": 4.2,
+          "count": 62,
+          "recommendedCount": 4,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 26,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1523",
+      "name": "Miller Toyota of Anaheim",
+      "niceName": "MillerToyotaofAnaheim_1523",
+      "distance": 28.694338747579472,
+      "operations": {
+        "Wednesday": "8:30 AM-10:00 PM",
+        "Thursday": "8:30 AM-10:00 PM",
+        "Tuesday": "8:30 AM-10:00 PM",
+        "Saturday": "8:30 AM-10:00 PM",
+        "Friday": "8:30 AM-10:00 PM",
+        "Monday": "8:30 AM-10:00 PM",
+        "Sunday": "9:00 AM-10:00 PM"
+      },
+      "address": {
+        "street": "1331 N Euclid St",
+        "apartment": "",
+        "city": "Anaheim",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Orange",
+        "country": "USA",
+        "latitude": 33.852375,
+        "longitude": -117.941801,
+        "zipcode": "92801"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "Group 1 Automotive",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 33,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 3,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1100",
+      "name": "Claremont Toyota",
+      "niceName": "ClaremontToyota_1100",
+      "distance": 29.938772320645764,
+      "operations": {
+        "Wednesday": "8:30 AM-10:00 PM",
+        "Tuesday": "8:30 AM-10:00 PM",
+        "Thursday": "8:30 AM-10:00 PM",
+        "Saturday": "8:30 AM-10:00 PM",
+        "Friday": "8:30 AM-10:00 PM",
+        "Monday": "8:30 AM-10:00 PM",
+        "Sunday": "9:00 AM-10:00 PM"
+      },
+      "address": {
+        "street": "601 Auto Center Dr",
+        "apartment": "",
+        "city": "Claremont",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Los Angeles",
+        "country": "USA",
+        "latitude": 34.080924,
+        "longitude": -117.725258,
+        "zipcode": "91711"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 6,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 3.0,
+          "count": 2,
+          "recommendedCount": 1,
+          "notRecommendedCount": 1
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "fiveStarAwardYears": "2017",
+      "exclusions": [],
+      "dealerId": "1599",
+      "name": "DCH Toyota of Simi Valley",
+      "niceName": "DCHToyotaofSimiValley_1599",
+      "distance": 31.829596288658735,
+      "operations": {
+        "Wednesday": "9:00 AM-9:00 PM",
+        "Thursday": "9:00 AM-9:00 PM",
+        "Tuesday": "9:00 AM-9:00 PM",
+        "Saturday": "9:00 AM-9:00 PM",
+        "Friday": "9:00 AM-9:00 PM",
+        "Monday": "9:00 AM-9:00 PM",
+        "Sunday": "10:00 AM-8:00 PM"
+      },
+      "address": {
+        "street": "2380 1st St",
+        "apartment": "",
+        "city": "Simi Valley",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Ventura",
+        "country": "USA",
+        "latitude": 34.27871,
+        "longitude": -118.7786,
+        "zipcode": "93065"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "DCH Auto Group",
+      "contactInfo": {
+        "phone": "(877) 871-1344",
+        "website": "http://www.toyotasimivalley.com/used-inventory/index.htm",
+        "gpContactFirstName": "Internet Sales",
+        "gpContactLastName": "Department",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(877) 871-1344"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 4.633,
+          "count": 51,
+          "recommendedCount": 28,
+          "notRecommendedCount": 2
+        },
+        "service": {
+          "overallRating": 5.0,
+          "count": 15,
+          "recommendedCount": 11,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1547",
+      "name": "Toyota Place",
+      "niceName": "ToyotaPlace",
+      "distance": 33.19242533250458,
+      "operations": {
+        "Wednesday": "09:00 AM-10:00 PM",
+        "Thursday": "09:00 AM-10:00 PM",
+        "Tuesday": "09:00 AM-10:00 PM",
+        "Saturday": "09:00 AM-10:00 PM",
+        "Friday": "09:00 AM-10:00 PM",
+        "Monday": "09:00 AM-10:00 PM",
+        "Sunday": "09:00 AM-10:00 PM"
+      },
+      "address": {
+        "street": "9670 Trask Ave",
+        "apartment": "",
+        "city": "Garden Grove",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Orange",
+        "country": "USA",
+        "latitude": 33.76673,
+        "longitude": -117.960262,
+        "zipcode": "92844"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "Noarus Auto Group",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 10,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 4,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1483",
+      "name": "Elmore Toyota",
+      "niceName": "ElmoreToyota_1483",
+      "distance": 34.12740281126978,
+      "operations": {
+        "Wednesday": "9:00 AM-9:00 PM",
+        "Thursday": "9:00 AM-9:00 PM",
+        "Tuesday": "9:00 AM-9:00 PM",
+        "Saturday": "9:00 AM-9:00 PM",
+        "Friday": "9:00 AM-9:00 PM",
+        "Monday": "9:00 AM-9:00 PM",
+        "Sunday": "9:00 AM-9:00 PM"
+      },
+      "address": {
+        "street": "15300 Beach Blvd",
+        "apartment": "",
+        "city": "Westminster",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Orange",
+        "country": "USA",
+        "latitude": 33.739973,
+        "longitude": -117.98932,
+        "zipcode": "92683"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 3.0,
+          "count": 11,
+          "recommendedCount": 2,
+          "notRecommendedCount": 2
+        },
+        "service": {
+          "overallRating": 4.773,
+          "count": 22,
+          "recommendedCount": 21,
+          "notRecommendedCount": 1
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1559",
+      "name": "Toyota of Orange",
+      "niceName": "ToyotaofOrange_1559",
+      "distance": 34.67744278596772,
+      "operations": {
+        "Wednesday": "8:30 AM-10:00 PM",
+        "Tuesday": "8:30 AM-10:00 PM",
+        "Thursday": "8:30 AM-10:00 PM",
+        "Saturday": "8:30 AM-10:00 PM",
+        "Friday": "8:30 AM-10:00 PM",
+        "Monday": "8:30 AM-10:00 PM",
+        "Sunday": "9:00 AM-10:00 PM"
+      },
+      "address": {
+        "street": "1400 N Tustin St",
+        "apartment": "",
+        "city": "Orange",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Orange",
+        "country": "USA",
+        "latitude": 33.810987,
+        "longitude": -117.836354,
+        "zipcode": "92867"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Wilson Automotive Group",
+      "reviews": {
+        "sales": {
+          "overallRating": 5.0,
+          "count": 15,
+          "recommendedCount": 3,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 5.0,
+          "count": 2,
+          "recommendedCount": 1,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1064",
+      "name": "Thousand Oaks Toyota",
+      "niceName": "ThousandOaksToyota_1064",
+      "distance": 34.98265810517698,
+      "operations": {
+        "Wednesday": "8:30 AM-10:00 PM",
+        "Thursday": "8:30 AM-10:00 PM",
+        "Tuesday": "8:30 AM-10:00 PM",
+        "Saturday": "8:30 AM-10:00 PM",
+        "Friday": "8:30 AM-10:00 PM",
+        "Monday": "8:30 AM-10:00 PM",
+        "Sunday": "9:30 AM-9:00 PM"
+      },
+      "address": {
+        "street": "2401 Thousand Oaks Blvd",
+        "apartment": "",
+        "city": "Thousand Oaks",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Ventura",
+        "country": "USA",
+        "latitude": 34.17437,
+        "longitude": -118.843224,
+        "zipcode": "91362"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "Silver Star Automotive Group",
+      "reviews": {
+        "sales": {
+          "overallRating": 5.0,
+          "count": 9,
+          "recommendedCount": 1,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 3,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1135",
+      "name": "John Elway's Crown Toyota",
+      "niceName": "JohnElwaysCrownToyota_1135",
+      "distance": 40.27618014904887,
+      "operations": {
+        "Wednesday": "8:00 AM-9:00 PM",
+        "Thursday": "8:00 AM-9:00 PM",
+        "Tuesday": "8:00 AM-9:00 PM",
+        "Saturday": "8:00 AM-9:00 PM",
+        "Friday": "8:00 AM-9:00 PM",
+        "Monday": "8:00 AM-9:00 PM",
+        "Sunday": "9:00 AM-9:00 PM"
+      },
+      "address": {
+        "street": "1201 Kettering Dr",
+        "apartment": "",
+        "city": "Ontario",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "San Bernardino",
+        "country": "USA",
+        "latitude": 34.052089,
+        "longitude": -117.547726,
+        "zipcode": "91761"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "contactInfo": {
+        "phone": "(888) 383-0156",
+        "website": "http://www.crownscion.com/",
+        "gpContactFirstName": "Pamela",
+        "gpContactLastName": "Perricone",
+        "gpContactFirstName2": "Vincent",
+        "gpContactLastName2": "Vincent",
+        "gpContactEmail": "pamperricone@crowntoyota.net",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Saving you time and money... is what we do. At John Elway's Crown Toyota, there is no such thing as a high pressure sales pitch. When you visit our dealership, you can expect to be treated with respect and courtesy.|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(888) 383-0156"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 3.0,
+          "count": 15,
+          "recommendedCount": 1,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 3.0,
+          "count": 6,
+          "recommendedCount": 1,
+          "notRecommendedCount": 1
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1453",
+      "name": "South Coast Toyota",
+      "niceName": "SouthCoastToyota_1453",
+      "distance": 41.71627175400939,
+      "operations": {
+        "Wednesday": "8:30 AM-9:00 PM",
+        "Thursday": "8:30 AM-9:00 PM",
+        "Tuesday": "8:30 AM-9:00 PM",
+        "Saturday": "8:30 AM-9:00 PM",
+        "Friday": "8:30 AM-9:00 PM",
+        "Monday": "8:30 AM-9:00 PM",
+        "Sunday": "9:00 AM-9:00 PM"
+      },
+      "address": {
+        "street": "1966 Harbor Blvd",
+        "apartment": "",
+        "city": "Costa Mesa",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Orange",
+        "country": "USA",
+        "latitude": 33.646047,
+        "longitude": -117.918834,
+        "zipcode": "92627"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Professional Success",
+      "contactInfo": {
+        "phone": "(877) 279-1045",
+        "website": "http://www.southcoasttoyota.com/",
+        "gpContactFirstName": "Internet",
+        "gpContactLastName": "Department",
+        "gpContactEmail": "webleads@southcoasttoyota.com",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(877) 279-1045"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 5.0,
+          "count": 14,
+          "recommendedCount": 2,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 1,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "fiveStarAwardYears": "2017",
+      "exclusions": [],
+      "dealerId": "850415",
+      "name": "Larry H. Miller Toyota Corona",
+      "niceName": "LarryHMillerToyotaCorona_850415",
+      "distance": 42.17061512723582,
+      "operations": {
+        "Wednesday": "8:30 AM-9:00 PM",
+        "Thursday": "8:30 AM-9:00 PM",
+        "Tuesday": "8:30 AM-9:00 PM",
+        "Saturday": "8:30 AM-9:00 PM",
+        "Friday": "8:30 AM-9:00 PM",
+        "Monday": "8:30 AM-9:00 PM",
+        "Sunday": "9:00 AM-9:00 PM"
+      },
+      "address": {
+        "street": "1700 W 6th St",
+        "apartment": "",
+        "city": "Corona",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Riverside",
+        "country": "USA",
+        "latitude": 33.878755,
+        "longitude": -117.598842,
+        "zipcode": "92882"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Larry H. Miller Group",
+      "contactInfo": {
+        "phone": "(888) 712-0848",
+        "website": "http://www.lhmtoyotacorona.com/used-inventory/index.htm"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 4.586,
+          "count": 39,
+          "recommendedCount": 26,
+          "notRecommendedCount": 3
+        },
+        "service": {
+          "overallRating": 4.731,
+          "count": 46,
+          "recommendedCount": 25,
+          "notRecommendedCount": 1
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1397",
+      "name": "Toyota of Riverside",
+      "niceName": "ToyotaofRiverside_1397",
+      "distance": 50.28224279776671,
+      "operations": {
+        "Wednesday": "8:30 AM-10:00 PM",
+        "Thursday": "8:30 AM-10:00 PM",
+        "Tuesday": "8:30 AM-10:00 PM",
+        "Saturday": "9:00 AM-9:00 PM",
+        "Friday": "8:30 AM-10:00 PM",
+        "Monday": "8:30 AM-10:00 PM",
+        "Sunday": "10:00 AM-9:00 PM"
+      },
+      "address": {
+        "street": "7870 Indiana Ave",
+        "apartment": "",
+        "city": "Riverside",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Riverside",
+        "country": "USA",
+        "latitude": 33.931422,
+        "longitude": -117.410947,
+        "zipcode": "92504"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Professional Success",
+      "contactInfo": {
+        "phone": "(888) 819-3024",
+        "website": "http://www.toyotaofriverside.com/",
+        "gpContactFirstName": "Shannon",
+        "gpContactLastName": "Mace",
+        "gpContactFirstName2": "Rachel",
+        "gpContactLastName2": "Rachel",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(888) 819-3024"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 4.333,
+          "count": 9,
+          "recommendedCount": 5,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 3,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1801885",
+      "name": "Santa Margarita Toyota",
+      "niceName": "SantaMargaritaToyota_1801885",
+      "distance": 52.67360638090827,
+      "operations": {
+        "Wednesday": "9:00 AM-8:00 PM",
+        "Tuesday": "9:00 AM-8:00 PM",
+        "Thursday": "9:00 AM-8:00 PM",
+        "Saturday": "9:00 AM-8:00 PM",
+        "Friday": "9:00 AM-8:00 PM",
+        "Monday": "9:00 AM-8:00 PM",
+        "Sunday": "9:00 AM-7:00 PM"
+      },
+      "address": {
+        "street": "22722 Avenida Empresa",
+        "apartment": "",
+        "city": "Rancho Santa Margarita",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Orange",
+        "country": "USA",
+        "latitude": 33.632385,
+        "longitude": -117.606679,
+        "zipcode": "92688"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 1.0,
+          "count": 1,
+          "recommendedCount": 0,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1596",
+      "name": "DCH Toyota of Oxnard",
+      "niceName": "DCHToyotaofOxnard_1596",
+      "distance": 52.69687299612116,
+      "operations": {
+        "Wednesday": "9:00 AM-9:00 PM",
+        "Thursday": "9:00 AM-9:00 PM",
+        "Tuesday": "9:00 AM-9:00 PM",
+        "Saturday": "9:00 AM-9:00 PM",
+        "Friday": "9:00 AM-9:00 PM",
+        "Monday": "9:00 AM-9:00 PM",
+        "Sunday": "10:00 AM-8:00 PM"
+      },
+      "address": {
+        "street": "1631 Auto Center Dr",
+        "apartment": "",
+        "city": "Oxnard",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Ventura",
+        "country": "USA",
+        "latitude": 34.227948,
+        "longitude": -119.152707,
+        "zipcode": "93036"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "DCH Auto Group",
+      "reviews": {
+        "sales": {
+          "overallRating": 5.0,
+          "count": 27,
+          "recommendedCount": 7,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 4.2,
+          "count": 27,
+          "recommendedCount": 4,
+          "notRecommendedCount": 1
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1382",
+      "name": "Toyota of San Bernardino",
+      "niceName": "ToyotaofSanBernardino_1382",
+      "distance": 53.92612304973115,
+      "operations": {
+        "Wednesday": "8:30 AM-9:00 PM",
+        "Tuesday": "8:30 AM-9:00 PM",
+        "Thursday": "8:30 AM-9:00 PM",
+        "Saturday": "8:30 AM-9:00 PM",
+        "Friday": "8:30 AM-9:00 PM",
+        "Monday": "8:30 AM-9:00 PM",
+        "Sunday": "9:00 AM-9:00 PM"
+      },
+      "address": {
+        "street": "765 Showcase Dr N",
+        "apartment": "",
+        "city": "San Bernardino",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "San Bernardino",
+        "country": "USA",
+        "latitude": 34.073985,
+        "longitude": -117.29931,
+        "zipcode": "92408"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 1,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1580",
+      "name": "Ventura Toyota",
+      "niceName": "VenturaToyota_1580",
+      "distance": 55.60284663107232,
+      "operations": {
+        "Wednesday": "9:00 AM-10:00 PM",
+        "Tuesday": "9:00 AM-10:00 PM",
+        "Thursday": "9:00 AM-10:00 PM",
+        "Saturday": "9:00 AM-10:00 PM",
+        "Friday": "9:00 AM-10:00 PM",
+        "Monday": "9:00 AM-10:00 PM",
+        "Sunday": "9:30 AM-10:00 PM"
+      },
+      "address": {
+        "street": "6360 Auto Center Dr",
+        "apartment": "",
+        "city": "Ventura",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Ventura",
+        "country": "USA",
+        "latitude": 34.24712,
+        "longitude": -119.202395,
+        "zipcode": "93003"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 4.6,
+          "count": 60,
+          "recommendedCount": 14,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 6,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1369",
+      "name": "Valley Hi Toyota",
+      "niceName": "ValleyHiToyota_1369",
+      "distance": 56.68257154547835,
+      "operations": {
+        "Wednesday": "7:00 AM-9:00 PM",
+        "Thursday": "7:00 AM-9:00 PM",
+        "Tuesday": "7:00 AM-9:00 PM",
+        "Saturday": "7:00 AM-9:00 PM",
+        "Friday": "7:00 AM-9:00 PM",
+        "Monday": "7:00 AM-9:00 PM",
+        "Sunday": "10:00 AM-09:00 PM"
+      },
+      "address": {
+        "street": "14612 Valley Center Dr",
+        "apartment": "",
+        "city": "Victorville",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "San Bernardino",
+        "country": "USA",
+        "latitude": 34.516277,
+        "longitude": -117.319144,
+        "zipcode": "92395"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Browning Automotive Group",
+      "contactInfo": {
+        "phone": "(888) 496-4381",
+        "website": "http://www.valleyhitoyota.com/new-inventory/index.htm",
+        "gpContactFirstName": "Frank",
+        "gpContactLastName": "Yegge",
+        "gpContactEmail": "fyegge@valleyhi.com",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(888) 496-4381"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 5.0,
+          "count": 16,
+          "recommendedCount": 8,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 4.111,
+          "count": 18,
+          "recommendedCount": 7,
+          "notRecommendedCount": 2
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "647318",
+      "name": "Capistrano Toyota",
+      "niceName": "CapistranoToyota_647318",
+      "distance": 58.7809568219091,
+      "operations": {
+        "Wednesday": "09:00 AM-09:00 PM",
+        "Thursday": "09:00 AM-09:00 PM",
+        "Tuesday": "09:00 AM-09:00 PM",
+        "Saturday": "09:00 AM-09:00 PM",
+        "Friday": "09:00 AM-09:00 PM",
+        "Monday": "09:00 AM-09:00 PM",
+        "Sunday": "09:00 AM-09:00 PM"
+      },
+      "address": {
+        "street": "33395 Camino Capistrano",
+        "apartment": "",
+        "city": "San Juan Capistrano",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Orange",
+        "country": "USA",
+        "latitude": 33.477713,
+        "longitude": -117.673705,
+        "zipcode": "92675"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 3.0,
+          "count": 4,
+          "recommendedCount": 1,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 2,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1805082",
+      "name": "Toyota of Redlands",
+      "niceName": "ToyotaofRedlands_1805082",
+      "distance": 59.89304032430055,
+      "operations": {
+        "Wednesday": "08:00 AM-09:00 PM",
+        "Thursday": "08:00 AM-09:00 PM",
+        "Tuesday": "08:00 AM-09:00 PM",
+        "Saturday": "8:30 AM-9:00 PM",
+        "Friday": "08:00 AM-09:00 PM",
+        "Monday": "08:00 AM-09:00 PM",
+        "Sunday": "9:00 AM-9:00 PM"
+      },
+      "address": {
+        "street": "921 New York St",
+        "apartment": "",
+        "city": "Redlands",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "San Bernardino",
+        "country": "USA",
+        "latitude": 34.064809,
+        "longitude": -117.19553,
+        "zipcode": "92374"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Professional Success",
+      "contactInfo": {
+        "phone": "(888) 674-2383",
+        "website": "http://www.toyotaofredlands.com/",
+        "gpContactFirstName": "Rosie",
+        "gpContactLastName": "Torrez",
+        "gpContactEmail": "rtorrez@toyotaofredlands.com",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(888) 674-2383"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 5.0,
+          "count": 2,
+          "recommendedCount": 2,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1417",
+      "name": "Moss Bros. Toyota",
+      "niceName": "MossBrosToyota_1417",
+      "distance": 62.80927838868697,
+      "operations": {
+        "Wednesday": "08:30 AM-09:00 PM",
+        "Thursday": "08:30 AM-09:00 PM",
+        "Tuesday": "08:30 AM-09:00 PM",
+        "Saturday": "09:00 AM-09:00 PM",
+        "Friday": "08:30 AM-09:00 PM",
+        "Monday": "08:30 AM-09:00 PM",
+        "Sunday": "09:30 AM-09:00 PM"
+      },
+      "address": {
+        "street": "12630 Motor Way",
+        "apartment": "",
+        "city": "Moreno Valley",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Riverside",
+        "country": "USA",
+        "latitude": 33.936535,
+        "longitude": -117.178123,
+        "zipcode": "92555"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "Moss Bros Automotive Group",
+      "reviews": {
+        "sales": {
+          "overallRating": 4.667,
+          "count": 15,
+          "recommendedCount": 3,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 4.838,
+          "count": 53,
+          "recommendedCount": 36,
+          "notRecommendedCount": 1
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1429",
+      "name": "Temecula Valley Toyota",
+      "niceName": "TemeculaValleyToyota_1429",
+      "distance": 77.37035430489152,
+      "operations": {
+        "Wednesday": "8:30 AM-9:00 PM",
+        "Thursday": "8:30 AM-9:00 PM",
+        "Tuesday": "8:30 AM-9:00 PM",
+        "Saturday": "8:30 AM-9:00 PM",
+        "Friday": "8:30 AM-9:00 PM",
+        "Monday": "8:30 AM-9:00 PM",
+        "Sunday": "9:30 AM-8:00 PM"
+      },
+      "address": {
+        "street": "26631 Ynez Rd",
+        "apartment": "",
+        "city": "Temecula",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Riverside",
+        "country": "USA",
+        "latitude": 33.51609,
+        "longitude": -117.155729,
+        "zipcode": "92591"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 1,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 1.0,
+          "count": 3,
+          "recommendedCount": 0,
+          "notRecommendedCount": 1
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1655",
+      "name": "Bill Wright Toyota",
+      "niceName": "BillWrightToyota_1655",
+      "distance": 89.69745877040236,
+      "operations": {
+        "Wednesday": "8:00 AM-9:00 PM",
+        "Thursday": "8:00 AM-9:00 PM",
+        "Tuesday": "8:00 AM-9:00 PM",
+        "Saturday": "8:00 AM-7:00 PM",
+        "Friday": "8:00 AM-9:00 PM",
+        "Monday": "8:00 AM-9:00 PM",
+        "Sunday": "10:00 AM-6:00 PM"
+      },
+      "address": {
+        "street": "5100 Gasoline Alley Dr",
+        "apartment": "",
+        "city": "Bakersfield",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Kern",
+        "country": "USA",
+        "latitude": 35.308804,
+        "longitude": -119.035491,
+        "zipcode": "93313"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "contactInfo": {
+        "phone": "(855) 673-2957",
+        "website": "http://www.billwright.com/",
+        "gpContactFirstName": "Phillip",
+        "gpContactLastName": "Beck",
+        "gpContactFirstName2": "Justin",
+        "gpContactLastName2": "Justin",
+        "gpContactEmail": "internetsales@billwright.com",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(855) 673-2957"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 5.0,
+          "count": 7,
+          "recommendedCount": 5,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 1.5,
+          "count": 2,
+          "recommendedCount": 1,
+          "notRecommendedCount": 1
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1214",
+      "name": "Toyota Carlsbad",
+      "niceName": "ToyotaCarlsbad_1",
+      "distance": 89.83295041501562,
+      "operations": {
+        "Wednesday": "8:00 AM-9:00 PM",
+        "Thursday": "8:00 AM-9:00 PM",
+        "Tuesday": "8:00 AM-9:00 PM",
+        "Saturday": "8:00 AM-7:00 PM",
+        "Friday": "8:00 AM-9:00 PM",
+        "Monday": "8:00 AM-9:00 PM",
+        "Sunday": "8:00 AM-7:00 PM"
+      },
+      "address": {
+        "street": "5424 Paseo Del Norte",
+        "apartment": "",
+        "city": "Carlsbad",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "San Diego",
+        "country": "USA",
+        "latitude": 33.131533,
+        "longitude": -117.326397,
+        "zipcode": "92008"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "contactInfo": {
+        "phone": "(888) 409-6118",
+        "website": "http://www.toyotacarlsbad.com/",
+        "gpContactFirstName": "Troy",
+        "gpContactLastName": "Past",
+        "gpContactEmail": "tpast@toyotacarlsbad.com",
+        "gpPhone": "(888) 409-6118"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 6,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1616",
+      "name": "Toyota of Santa Barbara",
+      "niceName": "ToyotaofSantaBarbara_1616",
+      "distance": 92.260424056557,
+      "operations": {
+        "Wednesday": "9:00 AM-8:00 PM",
+        "Tuesday": "9:00 AM-8:00 PM",
+        "Thursday": "9:00 AM-8:00 PM",
+        "Saturday": "9:00 AM-6:00 PM",
+        "Friday": "9:00 AM-8:00 PM",
+        "Monday": "9:00 AM-8:00 PM",
+        "Sunday": "10:00 AM-5:00 PM"
+      },
+      "address": {
+        "street": "5611 Hollister Ave",
+        "apartment": "",
+        "city": "Goleta",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Santa Barbara",
+        "country": "USA",
+        "latitude": 34.43565,
+        "longitude": -119.820875,
+        "zipcode": "93117"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Hitchcock Automotive",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 2,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 2,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "1238",
+      "name": "Toyota Escondido",
+      "niceName": "ToyotaEscondido_1238",
+      "distance": 98.38526341928436,
+      "operations": {
+        "Wednesday": "08:00 AM-09:00 PM",
+        "Thursday": "08:00 AM-09:00 PM",
+        "Tuesday": "08:00 AM-09:00 PM",
+        "Saturday": "09:00 AM-07:00 PM",
+        "Friday": "08:00 AM-09:00 PM",
+        "Monday": "08:00 AM-09:00 PM",
+        "Sunday": "10:00 AM-06:00 PM"
+      },
+      "address": {
+        "street": "231 E Lincoln Ave",
+        "apartment": "",
+        "city": "Escondido",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "San Diego",
+        "country": "USA",
+        "latitude": 33.134114,
+        "longitude": -117.085249,
+        "zipcode": "92026"
+      },
+      "expressUrlActive": "true",
+      "kbbId": "",
+      "parentDealershipName": "Professional Success",
+      "contactInfo": {
+        "phone": "(888) 698-0369",
+        "website": "http://www.toyotaescondido.com/inventory/new/",
+        "gpContactFirstName": "Internet",
+        "gpContactLastName": "Department",
+        "gpCommitment": "Personal Service: We will provide a VIP coordinator to guide customers through the process and prepare them for the dealer visit|Transparent Pricing: We will provide the customer with an upfront guaranteed price",
+        "gpPhone": "(888) 698-0369"
+      },
+      "reviews": {
+        "sales": {
+          "overallRating": 1.0,
+          "count": 5,
+          "recommendedCount": 0,
+          "notRecommendedCount": 1
+        },
+        "service": {
+          "overallRating": 5.0,
+          "count": 4,
+          "recommendedCount": 2,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["NEW", "USED"],
+      "type": "ROOFTOP"
+    },
+    {
+      "active": true,
+      "exclusions": [],
+      "dealerId": "21295",
+      "name": "North Bakersfield Toyota",
+      "niceName": "NorthBakersfieldToyota_21295",
+      "distance": 98.71816811372464,
+      "operations": {
+        "Wednesday": "8:00 AM-9:00 PM",
+        "Tuesday": "8:00 AM-9:00 PM",
+        "Thursday": "8:00 AM-9:00 PM",
+        "Saturday": "8:00 AM-7:00 PM",
+        "Friday": "8:00 AM-9:00 PM",
+        "Monday": "8:00 AM-9:00 PM",
+        "Sunday": "10:00 AM-6:00 PM"
+      },
+      "address": {
+        "street": "19651 Industry Parkway Dr",
+        "apartment": "",
+        "city": "Bakersfield",
+        "stateCode": "CA",
+        "stateName": "California",
+        "county": "Kern",
+        "country": "USA",
+        "latitude": 35.439282,
+        "longitude": -119.078679,
+        "zipcode": "93308"
+      },
+      "expressUrlActive": "false",
+      "kbbId": "",
+      "parentDealershipName": "",
+      "reviews": {
+        "sales": {
+          "overallRating": 0.0,
+          "count": 3,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        },
+        "service": {
+          "overallRating": 0.0,
+          "count": 0,
+          "recommendedCount": 0,
+          "notRecommendedCount": 0
+        }
+      },
+      "states": ["USED", "NEW"],
+      "type": "ROOFTOP"
+    }
+  ],
+  "dealersCount": 48,
+  "links": [
+    {
+      "rel": "first",
+      "href": "/api/dealer/v2/dealers?fmt=json&api_key=sej676rt53rh2cwp9jrcr9h3&zipcode=91208&view=full&make=scion&pagesize=100&pagenum=1"
+    },
+    {
+      "rel": "last",
+      "href": "/api/dealer/v2/dealers?fmt=json&api_key=sej676rt53rh2cwp9jrcr9h3&zipcode=91208&view=full&make=scion&pagesize=100&pagenum=1"
+    }
+  ]
+}
