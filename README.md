@@ -12,4 +12,4 @@ reusable Vue.js components as well as look for a new API to source the articles 
 
 ## Uses Github Pages
 
-https://nlcaceres.github.io/carSearch-site
+https://nlcaceres.github.io/carSearch-Site
